@@ -8,7 +8,7 @@ In this project, we build a recommendation system for universities and scholarsh
 - Clustering using unsupervised Machine Learning models (K-means, DBSCAN,...)
 - Development of a web application allowing students to get a scholarship recommendation according to their preferences and tests
 
-📍 **Keywords** : Machine Learning, Web Scraping, BeautifulSoup, Data mining, NLP, Python, Numpy, Pandas, Scikit-learn, Django, Bootstrap, Scrum
+📍 **Keywords** : Machine Learning, Web Scraping, BeautifulSoup, Data mining, NLP, Python, Numpy, Pandas, Scikit-learn, Django, Bootstrap
 
 📓 **Paper** : <a href="./Documentation/Rapport PCD - Recommendation system for universities & programs.pdf"> Report.pdf</a> or <a href="https://drive.google.com/file/d/14_Y4zPSxZvAA_K-_EdaUJIMrDvXlgnmN/view?usp=sharing">Link</a>.
 <hr>
