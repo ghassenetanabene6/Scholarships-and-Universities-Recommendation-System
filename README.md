@@ -14,6 +14,9 @@ In this project, we build a recommendation system for universities and scholarsh
 <hr>
 🎥 **Demo** : <a href="https://drive.google.com/file/d/1-Hjc64SEU_dnliqNb6DL2Cib_bxoqrz5/view?usp=sharing"> video_demo.mp4</a>
 
+<img src="./Documentation/Demo.gif">
+
+
 📍 **Screenshots**:
 
 
