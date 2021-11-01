@@ -12,15 +12,13 @@ In this project, we build a recommendation system for universities and scholarsh
 
 📓 **Paper** : <a href="./Documentation/Rapport PCD - Recommendation system for universities & programs.pdf"> Report.pdf</a> or <a href="https://drive.google.com/file/d/14_Y4zPSxZvAA_K-_EdaUJIMrDvXlgnmN/view?usp=sharing">Link</a>.
 <hr>
-🎥 **Demo** : 
-
-<br>
+<h3>Demo :</h3> 
 
 <img src="./Documentation/Demo.gif">
 
 <a href="https://drive.google.com/file/d/1-Hjc64SEU_dnliqNb6DL2Cib_bxoqrz5/view?usp=sharing"> video_demo.mp4</a>
 <hr>
-📍 <h2>Screenshots :</h2>
+<h3>Screenshots :</h3>
 
 📝 The user interface 
 <img src="./Documentation/Screenshots/0.png">
