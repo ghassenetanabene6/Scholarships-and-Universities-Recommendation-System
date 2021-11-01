@@ -10,17 +10,16 @@ In this project, we build a recommendation system for universities and scholarsh
 
 📍 **Keywords** : Machine Learning, Web Scraping, BeautifulSoup, Data mining, NLP, Python, Numpy, Pandas, Scikit-learn, Django, Bootstrap, Scrum
 
-📓 **Paper** : <a href="./Documentation/Rapport PCD - Recommendation system for universities & programs.pdf"> Report.pdf</a> or <a href="https://drive.google.com/file/d/14_Y4zPSxZvAA_K-_EdaUJIMrDvXlgnmN/view?usp=sharing">link</a>.
+📓 **Paper** : <a href="./Documentation/Rapport PCD - Recommendation system for universities & programs.pdf"> Report.pdf</a> or <a href="https://drive.google.com/file/d/14_Y4zPSxZvAA_K-_EdaUJIMrDvXlgnmN/view?usp=sharing">Link</a>.
 <hr>
-🎥 **Demo :** <a href="https://drive.google.com/file/d/1-Hjc64SEU_dnliqNb6DL2Cib_bxoqrz5/view?usp=sharing"> video.mp4</a>
+🎥 **Demo** : <a href="https://drive.google.com/file/d/1-Hjc64SEU_dnliqNb6DL2Cib_bxoqrz5/view?usp=sharing"> video_demo.mp4</a>
 
-📍 Screenshots:
-
-
+📍 **Screenshots**:
 
 
+
+📝 The user interface 
 <img src="./Documentation/Screenshots/0.png">
-
 
 <img src="./Documentation/Screenshots/1.png">
 
