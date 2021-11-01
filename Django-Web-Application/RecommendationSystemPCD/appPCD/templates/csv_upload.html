@@ -1,0 +1,6 @@
+<form method="post" enctype="multipart/form-data" action="upload_csv/">
+    {% csrf_token %}
+    <label>Add DataSet</label>
+    <input type="file" name="file">
+    <button type="submit">save</button>
+</form>
