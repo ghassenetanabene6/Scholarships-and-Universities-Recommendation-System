@@ -20,7 +20,7 @@ In this project, we build a recommendation system for universities and scholarsh
 
 <a href="https://drive.google.com/file/d/1-Hjc64SEU_dnliqNb6DL2Cib_bxoqrz5/view?usp=sharing"> video_demo.mp4</a>
 <hr>
-📍 **Screenshots**:
+📍 ##Screenshots :
 
 📝 The user interface 
 <img src="./Documentation/Screenshots/0.png">
