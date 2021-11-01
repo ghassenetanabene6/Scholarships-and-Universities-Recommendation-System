@@ -17,7 +17,10 @@ In this project, we build a recommendation system for universities and scholarsh
 
 
 
-<img src="Robot.jpg">
+<img src="./Documentation/Screenshots/0.png">
+
+
+<img src="./Documentation/Screenshots/1.png">
 
 <hr>
 
